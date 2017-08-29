@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 import android.support.v4.util.LruCache;
 
 import com.android.volley.toolbox.ImageLoader;
-//2.2 ( VolleyActivity Dön)
+//2.2 ( VolleyActivity'ye Dön)
 
 /**
  * Bilinmesi gereken bu class'ta bellekten ne kadar yer ayırması gerektigini soyluyoruz
